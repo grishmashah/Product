@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/update_product"
+        android:title="@string/update_product"
+        android:icon="@drawable/ic_action_edit"
+        android:showAsAction="always"/>
+
+    <item android:id="@+id/delete_product"
+        android:title="@string/delete_product"
+        android:icon="@drawable/ic_action_remove"
+        android:showAsAction="always"/>
+</menu>
